@@ -1,2 +1,2 @@
 # hello-world
-test git
+hello git
